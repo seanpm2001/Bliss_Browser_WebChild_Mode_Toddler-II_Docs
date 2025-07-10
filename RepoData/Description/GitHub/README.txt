@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌳️🌐️👶️2️⃣️🔒️📖️ The documentation source repository for Bliss Browser WebChild, in Toddler II mode, which filters the Internet for the 3-5 year old age range.
